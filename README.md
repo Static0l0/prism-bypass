@@ -14,6 +14,28 @@ This project is intended for educational and testing purposes.
 
 ---
 
+## 🚀 Usage
+
+1. Download Prism Launcher:
+
+   [https://prismlauncher.org/](https://prismlauncher.org/)
+
+2. Open Prism Launcher and complete the initial setup
+
+3. Close Prism Launcher completely
+
+4. Run the script:
+
+   ```bash
+   python bypass.py
+   ```
+
+5. Open Prism Launcher again
+
+6. You can now create and use an **offline account**
+
+---
+
 ## 📂 accounts.json Credit
 
 The `accounts.json` file used in this project is **not original** and comes from:
