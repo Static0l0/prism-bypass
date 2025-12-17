@@ -9,7 +9,7 @@ This project is intended for educational and testing purposes.
 ## 📌 What This Does
 
 * Automatically places a preconfigured `accounts.json` file
-* Allows Prism Launcher / PolyMC to detect an **offline account**
+* Allows Prism Launcher make a **offline account**
 * Avoids manually editing launcher files
 
 ---
